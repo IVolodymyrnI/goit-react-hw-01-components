@@ -1,6 +1,6 @@
 import { UserProfile } from 'components/UserProfile/UserProfile';
-import { StatsTitle } from 'components/Statistics/StatsTitle/StatsTitle';
-import { StatsList } from 'components/Statistics/StatsList/StatsList';
+import { StatsTitle } from 'components/StatsList/StatsTitle/StatsTitle';
+import { StatsList } from 'components/StatsList/StatsList';
 import { FriendsList } from 'components/FriendsList/FriendsList';
 import { TransactionHistory } from 'components/TransactionHistory/TransactionHistory';
 import { Section } from './AppStyle';

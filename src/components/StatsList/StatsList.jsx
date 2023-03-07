@@ -1,4 +1,4 @@
-import { OneDocType } from '../StatDocType/StatDocType';
+import { OneDocType } from './StatDocType/StatDocType';
 import { StatsListStyle, StatsListItem } from './StatsListStyle';
 import PropTypes from 'prop-types';
 

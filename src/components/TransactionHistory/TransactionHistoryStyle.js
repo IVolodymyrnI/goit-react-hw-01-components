@@ -26,3 +26,10 @@ export const TableHeadColum = styled.th`
   }
 `;
 export const TableBody = styled.tbody``;
+
+export const TableColum = styled.td`
+  padding: 12px 80px;
+  :not(:first-of-type) {
+    border-left: 1px solid gray;
+  }
+`;

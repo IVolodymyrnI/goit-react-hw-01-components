@@ -26,3 +26,5 @@ export const StatsListItem = styled.li`
     }
   }};
 `;
+export const Label = styled.span``;
+export const Percentage = styled.span``;
